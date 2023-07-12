@@ -1,3 +1,3 @@
-# FernandoMH
-Scripts e dados para estudo de linguagem Python e R
-https://fernandomhaesbaert.github.io/FernandoMH/
+# Análise de Dados
+Scripts e dados para estudo de linguagem R
+Normalização x Padronização: https://fernandomhaesbaert.github.io/FernandoMH/
